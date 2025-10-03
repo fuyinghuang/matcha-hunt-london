@@ -156,6 +156,7 @@ const Submit = () => {
                   <SelectItem value="Dessert Shop">Dessert Shop</SelectItem>
                   <SelectItem value="Restaurant">Restaurant</SelectItem>
                   <SelectItem value="Grocery">Grocery</SelectItem>
+                  <SelectItem value="Bakery">Bakery</SelectItem>
                 </SelectContent>
               </Select>
             </div>

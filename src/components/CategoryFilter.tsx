@@ -5,7 +5,7 @@ interface CategoryFilterProps {
   onChange: (category: string) => void;
 }
 
-const categories = ['All', 'Café', 'Dessert Shop', 'Restaurant', 'Grocery'];
+const categories = ['All', 'Café', 'Dessert Shop', 'Restaurant', 'Grocery', 'Bakery'];
 
 const CategoryFilter = ({ selected, onChange }: CategoryFilterProps) => {
   return (
